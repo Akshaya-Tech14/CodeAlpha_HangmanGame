@@ -1,0 +1,14 @@
+# Hangman Game (Python)
+
+A simple text-based Hangman game developed using Python.
+
+## Features
+- Random word selection
+- 6 attempts allowed
+- Console-based gameplay
+
+## How to Run
+python hangman.py
+
+## Internship
+CodeAlpha Python Programming Internship Project
